@@ -1,4 +1,3 @@
-<img src="https://cdn.jsdelivr.net/gh/KeronDev/WZRY-Ranking@main/img/banner.jpg" >
 <img align='left' src="https://cdn.jsdelivr.net/gh/KeronDev/WZRY-Ranking@main/img/xdj.png" width="130"> 
 
 # 王者荣耀英雄战力
